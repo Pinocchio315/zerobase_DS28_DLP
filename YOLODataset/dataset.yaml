@@ -1,0 +1,46 @@
+path: /home/pinoc/mlb24/zerobase_dlp/YOLODataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+    0: onion
+    1: garlic
+    2: carrot
+    3: potato
+    4: cucumber
+    5: pumpkin
+    6: bellpepper
+    7: greenonion
+    8: pepper
+    9: tofu
+    10: tomato
+    11: egg
+    12: port
+    13: buttonmushroom
+    14: roundcabbage
+    15: broccoli
+    16: raddish
+    17: kimchi
+    18: chicken
+    19: eggplant
+    20: cabbage
+    21: oystermushroom
+    22: sweetpotato
+    23: spinachi
+    24: bokchoy
+    25: perillaleaves
+    26: dumpling
+    27: fishcake
+    28: duck
+    29: enokimushroom
+    30: beef
+    31: shellfish
+    32: shrimp
+    33: salmon
+    34: squid
+    35: hairtail
+    36: mackerel
+    37: lemon
+    38: sprout
+    
